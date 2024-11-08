@@ -1,4 +1,6 @@
-<h1 align="center">👋 Welcome to ESP ELECTRONIC</h1>
+<div style="background-color: rgb(34, 45, 67); padding: 20px; border-radius: 10px;">
+
+<h1 align="center" style="color: #ffffff;">👋 Welcome to ESP ELECTRONIC</h1>
 
 <p align="center">
     <a href="https://github.com/ESP-ELECTRONIC">
@@ -56,7 +58,7 @@ Hello! We are **ESP ELECTRONIC**, a team passionate about **Electronics, Embedde
     </a>
 </p>
 
-<p align="center">
+<p align="center" style="color: #ffffff;">
     🚀 <em>We're always open to collaborating on IoT projects, embedded systems, and electronic innovations. Let's build the future together!</em> 💡
 </p>
 
@@ -65,3 +67,5 @@ Hello! We are **ESP ELECTRONIC**, a team passionate about **Electronics, Embedde
 <p align="center">
     <img src="https://user-images.githubusercontent.com/ESP-ELECTRONIC/footer.png" alt="Footer" width="800"/>
 </p>
+
+</div>
