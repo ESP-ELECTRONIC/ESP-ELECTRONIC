@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="200"/>
+    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/baje.png" alt="Footer" width="200"/>
 </p>
 
 
