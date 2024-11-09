@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/<YourUsername>/<RepositoryName>/blob/main/assets/banner.png?raw=true" alt="ESP Electronic Banner" width="800"/>
+    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="800"/>
 </p>
 
 ---
