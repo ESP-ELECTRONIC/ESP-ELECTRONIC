@@ -1,11 +1,5 @@
 <div style="background-color: rgb(34, 45, 67); padding: 20px; border-radius: 10px;">
 
-
-<p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/baje.png" alt="Footer" width="200"/>
-</p>
-
-
 <h1 align="center" style="color: #ffffff;">👋 Welcome to ESP ELECTRONIC</h1>
 
 <p align="center">
@@ -19,6 +13,10 @@
 
 <p align="center">
     <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="300"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="100"/>
 </p>
 
 ---
