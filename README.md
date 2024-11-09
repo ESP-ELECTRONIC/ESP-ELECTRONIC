@@ -1,5 +1,11 @@
 <div style="background-color: rgb(34, 45, 67); padding: 20px; border-radius: 10px;">
 
+
+<p align="center">
+    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="200"/>
+</p>
+
+
 <h1 align="center" style="color: #ffffff;">👋 Welcome to ESP ELECTRONIC</h1>
 
 <p align="center">
@@ -19,7 +25,7 @@
 
 ### 🛠️ About Us
 
-Hello! We are **ESP ELECTRONIC**, a team passionate about **Electronics, Embedded Systems**, and **IoT Development**. Our goal is to merge creativity with technical expertise, building innovative solutions that bridge the gap between the physical and digital worlds.
+Hello! We are **S A S S Madhuwantha**, a team passionate about **Electronics, Embedded Systems**, and **IoT Development**. Our goal is to merge creativity with technical expertise, building innovative solutions that bridge the gap between the physical and digital worlds.
 
 - 🧑‍🔧 **Focus Areas**: IoT, Embedded Systems, Robotics
 - 🔭 **Currently Working On**: Smart Home Automation, Industrial IoT, Robotics Control Systems
