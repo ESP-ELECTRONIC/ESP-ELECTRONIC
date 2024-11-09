@@ -65,7 +65,7 @@ Hello! We are **ESP ELECTRONIC**, a team passionate about **Electronics, Embedde
 ---
 
 <p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="800"/>
+    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="300"/>
 </p>
 
 </div>
