@@ -42,8 +42,8 @@ Hello! We are **S A S S Madhuwantha**, a team passionate about **Electronics, Em
 ### 📊 GitHub Statistics
 
 <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ESP-ELECTRONIC&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESP-ELECTRONIC&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shanuka-git&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanuka-git&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
