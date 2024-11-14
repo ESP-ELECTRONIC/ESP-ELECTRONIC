@@ -3,20 +3,20 @@
 <h1 align="center" style="color: #ffffff;">👋 Welcome to ESP ELECTRONIC</h1>
 
 <p align="center">
-    <a href="https://github.com/ESP-ELECTRONIC">
-        <img src="https://img.shields.io/github/followers/ESP-ELECTRONIC?label=Followers&style=social" />
+    <a href="https://github.com/Shanuka-git">
+        <img src="https://img.shields.io/github/followers/Shanuka-git?label=Followers&style=social" />
     </a>
-    <a href="https://github.com/ESP-ELECTRONIC">
-        <img src="https://img.shields.io/github/stars/ESP-ELECTRONIC?style=social" />
+    <a href="https://github.com/Shanuka-git">
+        <img src="https://img.shields.io/github/stars/Shanuka-git?style=social" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="300"/>
+    <img src="https://github.com/Shanuka-git/Assets/blob/main/banner.png" alt="ESP Electronic Banner" width="300"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="100"/>
+    <img src="https://github.com/Shanuka-git/Assets/blob/main/footer.png" alt="Footer" width="100"/>
 </p>
 
 ---
@@ -50,13 +50,13 @@ Hello! We are **S A S S Madhuwantha**, a team passionate about **Electronics, Em
 ### 🤝 Connect with Us
 
 <p align="center">
-    <a href="https://www.linkedin.com/company/esp-electronic">
+    <a href="https://www.linkedin.com/company/Shanuka-git">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/esp_electronic">
+    <a href="https://twitter.com/Shanuka-git">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
     </a>
-    <a href="mailto:support@esp-electronic.com">
+    <a href="mailto:support@Shanuka-git">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
 </p>
@@ -68,7 +68,7 @@ Hello! We are **S A S S Madhuwantha**, a team passionate about **Electronics, Em
 ---
 
 <p align="center">
-    <img src="https://github.com/ESP-ELECTRONIC/Assets/blob/main/footer.png" alt="Footer" width="300"/>
+    <img src="https://github.com/Shanuka-git/Assets/blob/main/footer.png" alt="Footer" width="300"/>
 </p>
 
 </div>
